@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Threee:
+  name: Threee
+  picture: /images/bio-photo-2.jpg
+  # twitter: ""
+  links:
+    - title: Github
+      url: https://github.com/CoderGrowing
+      icon: fab fa-github-square
